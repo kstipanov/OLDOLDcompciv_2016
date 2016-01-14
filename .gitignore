@@ -1,0 +1,6 @@
+.gitignore
+.DS_Store
+creds_*
+tempdata/
+__pycache__/
+*.py[cod]
